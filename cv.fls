@@ -102,7 +102,10 @@ INPUT /home/daanjiri/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /home/daanjiri/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /home/daanjiri/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /home/daanjiri/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /home/daanjiri/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm
+INPUT /home/daanjiri/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /home/daanjiri/.TinyTeX/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
+INPUT /home/daanjiri/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /home/daanjiri/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT cv.aux
 INPUT ./cv.out
@@ -110,5 +113,7 @@ INPUT ./cv.out
 INPUT /home/daanjiri/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk
 INPUT /home/daanjiri/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /home/daanjiri/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /home/daanjiri/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
 INPUT /home/daanjiri/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /home/daanjiri/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /home/daanjiri/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
