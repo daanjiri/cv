@@ -99,13 +99,13 @@ INPUT /home/daanjiri/.TinyTeX/texmf-dist/tex/latex/base/omscmr.fd
 INPUT /home/daanjiri/.TinyTeX/texmf-dist/tex/latex/base/omscmr.fd
 INPUT /home/daanjiri/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /home/daanjiri/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /home/daanjiri/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /home/daanjiri/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /home/daanjiri/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /home/daanjiri/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /home/daanjiri/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm
 INPUT /home/daanjiri/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /home/daanjiri/.TinyTeX/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
-INPUT /home/daanjiri/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /home/daanjiri/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT cv.aux
 INPUT ./cv.out

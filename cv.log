@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.21)  10 FEB 2024 17:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.21)  11 FEB 2024 16:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -254,18 +254,18 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
  )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 103 (\begingroup)
+### semi simple group (level 1) entered at line 105 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
  8643 strings out of 476126
  135132 string characters out of 5794436
- 1948539 words of memory out of 5000000
+ 1946539 words of memory out of 5000000
  30641 multiletter control sequences out of 15000+600000
  561541 words of font info for 47 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,6n,79p,983b,491s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,503b,491s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/daanjiri/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></home/daanjiri/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></home/daanjiri/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/daanjiri/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></home/daanjiri/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/daanjiri/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/daanjiri/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cv.pdf (2 pages, 109849 bytes).
+Output written on cv.pdf (2 pages, 109605 bytes).
 PDF statistics:
  54 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
