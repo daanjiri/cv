@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1713206548.3716 "c:/Users/dajim/Desktop/cv/cv.tex" "cv.pdf" "cv" 1713206549.34323 0
+["pdflatex"] 1713206668.32026 "c:/Users/dajim/Desktop/cv/cv.tex" "cv.pdf" "cv" 1713206669.3818 0
   "C:/Users/dajim/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1709142178 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/dajim/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1709102886 11548 a3cc60a9271178db15ec2363cf98f02d ""
   "C:/Users/dajim/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1709102805 24231887 e0eb3ac95fa837ff5ca7857e2e94e7ac ""
@@ -54,10 +54,10 @@
   "C:/Users/dajim/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/dajim/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/dajim/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/dajim/Desktop/cv/cv.tex" 1713206547 12909 985b0e83e2f24084ad780498754bed0d ""
-  "cv.aux" 1713206549 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
-  "cv.out" 1713206549 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "cv.tex" 1713206547 12909 985b0e83e2f24084ad780498754bed0d ""
+  "c:/Users/dajim/Desktop/cv/cv.tex" 1713206667 12913 72a3c8480c624ceb256ea86e1e4c11a5 ""
+  "cv.aux" 1713206669 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
+  "cv.out" 1713206669 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv.tex" 1713206667 12913 72a3c8480c624ceb256ea86e1e4c11a5 ""
   (generated)
   "cv.aux"
   "cv.log"
