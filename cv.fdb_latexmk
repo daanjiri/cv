@@ -1,8 +1,8 @@
 # Fdb version 4
-["pdflatex"] 1712773003.64067 "c:/Users/dajim/Desktop/cv/cv.tex" "cv.pdf" "cv" 1712773005.10218 0
-  "C:/Users/dajim/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1709142178.99982 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
-  "C:/Users/dajim/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1709102886.43936 11548 a3cc60a9271178db15ec2363cf98f02d ""
-  "C:/Users/dajim/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1709102805.5594 24231887 fd76b943c3124a0b3fcdd3daecdd115b ""
+["pdflatex"] 1713205890.46269 "c:/Users/dajim/Desktop/cv/cv.tex" "cv.pdf" "cv" 1713205891.66991 0
+  "C:/Users/dajim/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1709142178 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/dajim/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1709102886 11548 a3cc60a9271178db15ec2363cf98f02d ""
+  "C:/Users/dajim/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1709102805 24231887 e0eb3ac95fa837ff5ca7857e2e94e7ac ""
   "C:/Users/dajim/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Users/dajim/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "C:/Users/dajim/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -54,9 +54,10 @@
   "C:/Users/dajim/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/dajim/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/dajim/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/dajim/Desktop/cv/cv.tex" 1712773002.36273 6584 b21a54ffb117d3bc8a6f9fa2891ea626 ""
-  "cv.aux" 1712773004.78638 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
-  "cv.out" 1712773004.706 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "c:/Users/dajim/Desktop/cv/cv.tex" 1713205889 12103 3e6fddf354a6146580e3d945e737a49b ""
+  "cv.aux" 1713205891 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
+  "cv.out" 1713205891 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv.tex" 1713205889 12103 3e6fddf354a6146580e3d945e737a49b ""
   (generated)
   "cv.aux"
   "cv.log"
