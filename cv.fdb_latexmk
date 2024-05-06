@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1714159363.30799 "/home/daanjiri/Desktop/cv/cv.tex" "cv.pdf" "cv" 1714159364.18573 0
+["pdflatex"] 1715032861.38809 "/home/daanjiri/Desktop/cv/cv.tex" "cv.pdf" "cv" 1715032861.85525 0
   "/home/daanjiri/.TinyTeX/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/home/daanjiri/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/home/daanjiri/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -56,10 +56,10 @@
   "/home/daanjiri/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk" 1707457915.5132 11524 16bfdb79abf838773f7b1f4a4ac6e93a ""
   "/home/daanjiri/.TinyTeX/texmf-var/web2c/pdftex/pdflatex.fmt" 1705887792 6812083 b03322495f09cd95348b9c6d5fbe5aa9 ""
   "/home/daanjiri/.TinyTeX/texmf.cnf" 1700344864.6122 679 e95db49b3971c649270bd42ba2e598f9 ""
-  "/home/daanjiri/Desktop/cv/cv.tex" 1714159362.87848 9501 deff937afb53d9a8ca2d04229c5e5274 ""
-  "cv.aux" 1714159364.06647 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
-  "cv.out" 1714159364.02247 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "cv.tex" 1714159362.87848 9501 deff937afb53d9a8ca2d04229c5e5274 ""
+  "/home/daanjiri/Desktop/cv/cv.tex" 1715032861.15909 6720 e08e1a390e2433bbec86aa78ac3c4854 ""
+  "cv.aux" 1715032861.79109 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "cv.out" 1715032861.76309 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv.tex" 1715032861.15909 6720 e08e1a390e2433bbec86aa78ac3c4854 ""
   (generated)
   "cv.aux"
   "cv.log"
