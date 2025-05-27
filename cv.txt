@@ -1,0 +1,122 @@
+# Daniel Andres Jimenez Riveros
+
+**Master en Información e Inteligencia Artificial - Master en Arte en Computación Linguistica**
+
+da.jimenez166@gmail.com | linkedin.com/in/daniel-jimenez-78500117a
+
+## Experiencia Profesional
+
+### The University of British Columbia, Vancouver, Canadá
+**Asistente de Investigación de Posgrado** | *Febrero 2024 - Presente*
+* **Desarrolló y entrenamiento modelos de Inteligencia Artifical(LLMs) para aplicaciones de NLP usando Pytorch** para el departamento de Medicina.
+* **implementación de técnicas de web scraping y extracción de información (RAG) con inteligencia artifical** para mejorar las tareas de recuperación de información en el departamento de Economía.
+* **Anotacion de corpus y documentos, mejorando significativamente la calidad y disponibilidad de datos** para proyectos de inteligencia artifcial en el departamento de Psicología.
+
+### AMAZON, Remoto
+**Ingeniero de Desarrollo de Software** | *Julio 2022 - Agosto 2023*
+* **70% de incremento en la eficiencia para más de 2,000 analistas de datos** mediante el desarrollo de **applicaciones web**, mejorando significativamente la velocidad y precisión en la toma de decisiones usando **Javascript, ReactJS, D3.js y Redux RTK**.
+* **Incremento del 50% del acceso a datos y KPIs para más de 300 lideres de equipo** por medio de servicios back-end escalables y la implementación de **APIs RESTful con TypeScript, ExpressJS, y NodeJS.**
+
+**Analista de Inteligencia de Negocios** | *Julio 2021 - Julio 2022*
+* **Mas de 95% de precisión en modelos de Machine learning y Deep learning (regresiones, series temporales, redes neuronales)**, mejorando las decisiones operativas, utilizando **Scikit-learn y Pytorch** para el entrenamiento.
+* Análisis Exploratorio de Datos (EDA) utilizando Python **(Pandas, NumPy, Matplotlib, Seaborn, Altair, SQL)** para la estratégica **selección de modelos de aprendizaje automático e ingeniería de características**, mejorando la optimización y desarrollo del producto.
+* **Reducción del 30% en el tiempo de procesamiento de datos**, acelerando significativamente los plazos del proyecto al optimizar los flujos de trabajo de preprocesamiento de datos con **Python y servicios en la nube**.
+
+**Practicante de Tecnología de la Información** | *Enero 2021 - Julio 2021*
+* **Impacto a más de 9,000 empleados de Amazon** con el **desarrollo full-stack y desarrollo web** de herramientas internas críticas, mejorando significativamente la usabilidad y productividad usando **JavaScript, Reactjs, Flask, Nodejs, HTML y CSS**.
+* Diseño de **componentes de UI e íconos intuitivos con Figma**, mejorando significativamente la experiencia del usuario en cuatro aplicaciones internas principales.
+
+### AQSTICA S.A.S, Bogotá, Colombia
+**Analista de Datos** | *Febrero 2018 - Noviembre 2020*
+* Aplicación de técnicas básicas de unsupervised learning con **Python(scikit-learn)** para segmentar clientes, impulsando **marketing dirigido y mejoras de producto.**
+* Analizó conjuntos de datos complejos usando **Python(Pandas, Numpy)** para tomar decisiones estratégicas, **aumentando la eficiencia operativa en un 10% en ingresos.**
+* Automatizó la limpieza y transformación de datos con **Python, SQL y MongoDB, mejorando la calidad de los datos en un 25% y reduciendo el tiempo de procesamiento en un 40%.**
+
+## Experiencia Docencia
+
+### UNIVERSIDAD DEL BOSQUE, Bogotá, Colombia
+**Profesor, Departamento de Humanidades** | *Agosto 2022 - Junio 2023*
+* Introducir a los estudiantes de arte a los conceptos de **IA y Deep learning**, aplicando recursos de bajo código para crear proyectos artísticos, lo que fomentó una comprensión de cómo las técnicas modernas de IA pueden innovar la expresión artística.
+* Instruir a 35 estudiantes por término en lenguajes de programación y frameworks enfocados en la codificación creativa, tales como **ThreeJS, Arduino, C++ y D3js**.
+* Orientar a los estudiantes en el aprendizaje basado en proyectos, ofreciendo orientación personalizada y retroalimentación para ayudarles a desarrollar obras de arte digitales innovadoras y proyectos interactivos.
+
+### UNIVERSIDAD DE LOS ANDES, Bogotá, Colombia
+**Profesor asistente, Análisis de Decisión de Inversión** | *Agosto 2012 - Diciembre 2012*
+* Brindar apoyo al curso en cuanto a calificación de parciales, dictar clases complementarias, desarrollo de tareas, proyectos y demás actividades del curso.
+
+**Profesor asistente, Algoritmos de Programación** | *Agosto 2012 - Diciembre 2012*
+* Brindar apoyo al curso en cuanto a calificación de parciales, dictar clases complementarias, desarrollo de tareas, proyectos y demás actividades del curso.
+
+**Profesor asistente, Programa de Acompañamiento** | *Agosto 2011 - Mayo 2012*
+* Facilitar la adaptación de estudiantes de Ingeniería Industrial de primer semestre a la vida universitaria apoyándolos en los diferentes cursos de primer semestre y promoviendo el desarrollo de habilidades como el trabajo en grupo, hábitos de estudio, entre otros.
+
+## Educación
+
+**University of British Columbia**, Vancouver, Canada - Master of Data Science in Computational Linguistics - *Presente*
+
+**Universidad de los Andes**, Bogotá, Colombia - Maestria en Información e Inteligencia Artificial - Pregrado Ingenieria Industrial - Pregrado Artes
+
+**Fundacion Universitaria Jorge Tadeo Lozano**, Bogotá, Colombia - Especializacion en Gestión de Proyectos Culturales
+
+## Premios & Becas
+* Beca COLFUTURO | *2023*
+* Beca Data Science for All (DS4A) | *2018*
+* Ganador Premio Arte Joven Embajada de España y Colsanitas | *2021*
+* Reconocimiento beca Ministerio de Cultura | *2019*
+* Mención de honor beca Ministerio de Cultura | *2018*
+* Ganador Premio IX PUA a las Artes | *2018*
+* Proyecto de Grado Excelencia Meritoria, dirigido por el docente Juan Fernando Mejía. Universidad de los Andes | *2017*
+
+## Exposiciones Individuales
+* Abril 2023. **Peak Depression**. Espacio OTRO, Bogotá (COL).
+* Agosto 2022. **PRIME**, Galería 12:00, Bogotá (COL).
+* Septiembre 2019. **C.E.A.B**, Espacio cultural KB, Bogotá (COL).
+* Julio 2019. **¿Are you human?**, Espacio NADA, Bogotá (COL).
+* Junio 2017. **I know what I meant to mean**, Espacio independiente MIAMI prácticas contemporáneas, Bogotá (COL).
+
+## Exposiciones Colectivas
+* Abril 2025, **Dueños del 1920x1080**, Sala de Exposiciones Cámara de Comercio, Bogotá (COL).
+* Noviembre 2024, **Socialización Beca Circulación**, Museo del Juguete, Trujillo (PER).
+* Octubre 2024, **Ofrenda y Demanda**, Museo Mapuka, Barranquilla (COL).
+* Mayo 2024, **Habitar la Crisis**, Espacio Odeon, Bogotá (COL).
+* Noviembre 2023, **ddmmaaaa**, Espacio Odeon, Bogotá (COL).
+* Junio 2023, **Próximamente**, Colectivo Próximamente, Barranquilla (COL).
+* Septiembre 2022, **Nosotros**, Espacio OTRO, Bogotá (COL).
+* Mayo 2021, **Tercer espacio**, Plural Nodo Cultural, Bogotá (COL).
+* Noviembre 2021, **Departamento temporal de los Objetos**, Galería Santa Fe, Bogotá (COL).
+* Febrero 2020, **Sin título**, Local B. Barcelona (ES).
+* Julio 2019, **Galería MALL en México**, Museo Tamayo, Guadalajara (MEX).
+* Marzo 2019, **Muestra centro cultural Brazil-Perú**, Tokio Galería, Lima (PER).
+* Febrero 2019, **Galería MALL en México**, Espacio Lagos, Ciudad de México (MEX).
+* Febrero 2019, **Museo Tamayo**, Galería MALL, Ciudad de México (MEX).
+* Noviembre 2018, **NADA art fair**, Galería Ultravioleta + Galería MALL, MIAMI (USA).
+* Noviembre 2018, **NADA art fair**, Galería CARNE, MIAMI (USA).
+* Octubre 2018, **Sección Artecámara**, ARTBO, Bogotá (COL).
+* Octubre 2018, **Ruberta Primavera / Otoño '19**, Galería CARNE, Bogotá (COL).
+* Febrero 2018, **POPPOSITIONS art fair**, LaAgencia, Bruselas (BE).
+* Enero 2018, **ENTORNOS**, Galería espacio alterno, Bogotá (COL).
+* Octubre 2017, **Ruberta Primavera / Otoño '18**, Galería CARNE, Bogotá (COL).
+* Septiembre 2017, **Calidad de vida**, Espacio KB, Bogotá (COL).
+* Mayo 2017, **FAMA**, Espacio Km 2.0, San Juan (PR).
+* Diciembre 2016, **No todo lo que brilla es Obra**, Exposición conjunta en la Universidad de los Andes, Bogotá (COL).
+* Diciembre 2016, **FADE**, Galería SGR, Bogotá (COL).
+* Agosto 2016, **Espacios de ficción**, Exposición conjunta en la Sala de proyectos Universidad de los Andes, Bogotá (COL).
+* Noviembre 2015, **Producir sin facturar**, Espacio el Faro del tiempo, Bogotá (COL).
+* Octubre 2014, **PING PONG**, Espacio independiente el Mentidero, Bogotá (COL).
+* Abril 2013, **Salón Toyota**, Universidad del Atlántico, Barranquilla (COL).
+
+## Residencias
+* Junio 2020, **residencia espacio cultural KB**, Bogotá (COL).
+* Julio 2019, **residencia Uniandianos y Cooperartes**, Bogotá (COL).
+
+## Curadurías
+* Febrero 2020, **Hoy no tenemos Arte**, Espacio Donde Mary, Bogotá (COL).
+* Enero 2020, **Mercado Libre**, Espacio Odeón, Bogotá (COL).
+* Noviembre 2019, **Artesanía Neoliberal**, Espacio Donde Mary, Bogotá (COL).
+* Septiembre 2019, **Bombonera**, Salida de Emergencia, Bogotá (COL).
+* Junio 2019, **Miscelánea**, Salida de Emergencia en NUEVO MIAMI, Bogotá (COL).
+
+## Tecnologías
+**Data science**: Python, R, SQL, Pandas, Numpy, Matplotlib, Seaborn, Altair, Scikit-learn (Sklearn), Pytorch, Neural Networks, Machine Learning, Deep Learning, Artificial Intelligence, Natural Language Processing(NLP)
+| **Software Development**: Flask, NodeJS, D3js, ReactJS, HTML, CSS, Redux, front-end, back-end, fullstack, Typescript, Javascript, Java, MongoDB, GitHub, Git, Algorithms, Data structures, Figma, Adobe XD, UI/UX
+| **Other**: AWS (EC2, S3, Lambda, API Gateway), CDK, CloudFormation, DynamoDb, SageMaker, C++, D3js, ThreeJS 
