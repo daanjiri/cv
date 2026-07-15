@@ -1,122 +1,87 @@
-# Daniel Andres Jimenez Riveros
+   Daniel Andres Jimenez Riveros, MSc-MA
+  Vancouver, BC, Canada | da.jimenez166@gmail.com | linkedin.com/in/daniel-jimenez-78500117a | github.com/daanjiri
 
-**Master en Información e Inteligencia Artificial - Master en Arte en Computación Linguistica**
 
-da.jimenez166@gmail.com | linkedin.com/in/daniel-jimenez-78500117a
+Professional Summary
+Machine Learning Software Engineer with 7+ years of experience across AI/ML, software engineering, data,
+and analytics. Experienced in leading the design, development, deployment, and monitoring of production AI systems,
+ML platforms, and data-driven software products. Hands-on expertise with Python, PyTorch, TensorFlow, SQL, AWS,
+Azure, MLOps, GenAI, NLP, and computer vision. Results-oriented problem solver with a strong record of translating am-
+biguous business challenges into scalable technical solutions and collaborating with engineering, product, data, and business
+stakeholders.
 
-## Experiencia Profesional
 
-### The University of British Columbia, Vancouver, Canadá
-**Asistente de Investigación de Posgrado** | *Febrero 2024 - Presente*
-* **Desarrolló y entrenamiento modelos de Inteligencia Artifical(LLMs) para aplicaciones de NLP usando Pytorch** para el departamento de Medicina.
-* **implementación de técnicas de web scraping y extracción de información (RAG) con inteligencia artifical** para mejorar las tareas de recuperación de información en el departamento de Economía.
-* **Anotacion de corpus y documentos, mejorando significativamente la calidad y disponibilidad de datos** para proyectos de inteligencia artifcial en el departamento de Psicología.
+Work Experience
+Apexon, Vancouver, BC, Canada
+Senior GenAI Engineer                                                                                June 2025 - Present
+     Projected +$0.8B in net new first-year revenue from prioritized ISV verticals by designing and developing
+      an AI solution for a payment platform, translating ambiguous business requirements into scalable automation with
+      Python, AWS, LangGraph, and integrated ML models.
+     Achieved 96% performance in a production RAG system by architecting, evaluating, and monitoring retrieval
+      pipelines with AWS OpenSearch, S3, Bedrock, LangGraph, Anthropic Claude, and OpenAI APIs; validated quality
+      with DeepEval and Ragas and implemented Langfuse observability.
+     Developed and maintained the production product across ReactJS, FastAPI, .NET, DAPR, and C++
+      microservices, collaborating with engineering and product stakeholders on cross-stack integration and delivery deci-
+      sions.
 
-### AMAZON, Remoto
-**Ingeniero de Desarrollo de Software** | *Julio 2022 - Agosto 2023*
-* **70% de incremento en la eficiencia para más de 2,000 analistas de datos** mediante el desarrollo de **applicaciones web**, mejorando significativamente la velocidad y precisión en la toma de decisiones usando **Javascript, ReactJS, D3.js y Redux RTK**.
-* **Incremento del 50% del acceso a datos y KPIs para más de 300 lideres de equipo** por medio de servicios back-end escalables y la implementación de **APIs RESTful con TypeScript, ExpressJS, y NodeJS.**
+Arkangel AI, Remote
+Senior Machine Learning Engineer / Project Lead                                              June 2024 - June 2025
+     Led the Pandora project end-to-end, delivering an AI system used by 45,000+ users for electronic health
+      record extraction with AWS Fargate, Docker, RAG, LangGraph, FastAPI, and Hugging Face Transformers.
+     Led delivery of an automated ML/DL platform generating up to $50k in monthly revenue, covering
+      model training, evaluation, deployment, and monitoring with AWS SageMaker, PyTorch, CloudWatch, Lambda, S3,
+      and NextJS.
+     Reduced processing time and cost by 70% by leading document AI solutions for invoice processing and provider
+      verification using OpenCV, PyTorch, VLMs, OCR workflows, and Azure services.
 
-**Analista de Inteligencia de Negocios** | *Julio 2021 - Julio 2022*
-* **Mas de 95% de precisión en modelos de Machine learning y Deep learning (regresiones, series temporales, redes neuronales)**, mejorando las decisiones operativas, utilizando **Scikit-learn y Pytorch** para el entrenamiento.
-* Análisis Exploratorio de Datos (EDA) utilizando Python **(Pandas, NumPy, Matplotlib, Seaborn, Altair, SQL)** para la estratégica **selección de modelos de aprendizaje automático e ingeniería de características**, mejorando la optimización y desarrollo del producto.
-* **Reducción del 30% en el tiempo de procesamiento de datos**, acelerando significativamente los plazos del proyecto al optimizar los flujos de trabajo de preprocesamiento de datos con **Python y servicios en la nube**.
+AMAZON, Remote
+Software Developer Engineer                                                                     July 2022 - August 2023
+    Enabled 300+ e-commerce leaders by architecting scalable backend services and RESTful APIs in TypeScript,
+     ExpressJS, and NodeJS with AI-driven insights and real-time data processing capabilities.
+    Supported 9,000+ Amazon employees and analyzed 500,000+ customer service transactions by develop-
+     ing full-stack analytics products with ReactJS, Flask, and NodeJS and automated Python data pipelines that produced
+     actionable recommendations.
+Information Technology Intern                                                                  January 2021 - July 2021
+    Delivered UI/UX and front-end development for internal tools supporting 3 internal teams, design-
+     ing responsive ReactJS dashboards with Figma prototypes and SAS-based analytics integration for real-time data
+     visualization and intuitive user experiences.
 
-**Practicante de Tecnología de la Información** | *Enero 2021 - Julio 2021*
-* **Impacto a más de 9,000 empleados de Amazon** con el **desarrollo full-stack y desarrollo web** de herramientas internas críticas, mejorando significativamente la usabilidad y productividad usando **JavaScript, Reactjs, Flask, Nodejs, HTML y CSS**.
-* Diseño de **componentes de UI e íconos intuitivos con Figma**, mejorando significativamente la experiencia del usuario en cuatro aplicaciones internas principales.
+AQSTICA S.A.S, Bogotá, Colombia
+Business Intelligence Analyst                                                February 2018 - November 2020
+     Improved targeted marketing and audience segmentation by 20% through big data analytics, unsupervised
+      learning, and predictive modeling in Python.
+     Improved data quality by 25% and reduced processing time by 40% by developing automated data pipelines
+      with Python, SQL, and MongoDB for large-scale analytics.
 
-### AQSTICA S.A.S, Bogotá, Colombia
-**Analista de Datos** | *Febrero 2018 - Noviembre 2020*
-* Aplicación de técnicas básicas de unsupervised learning con **Python(scikit-learn)** para segmentar clientes, impulsando **marketing dirigido y mejoras de producto.**
-* Analizó conjuntos de datos complejos usando **Python(Pandas, Numpy)** para tomar decisiones estratégicas, **aumentando la eficiencia operativa en un 10% en ingresos.**
-* Automatizó la limpieza y transformación de datos con **Python, SQL y MongoDB, mejorando la calidad de los datos en un 25% y reduciendo el tiempo de procesamiento en un 40%.**
 
-## Experiencia Docencia
+Education
+University of British Columbia, Vancouver, Canada - Master of Data Science in Computational Linguistics (2023-2024)
+Universidad de los Andes, Bogotá, Colombia - Master in Information Technology (2018-2020) - Bachelor in Industrial
+Engineering (2014-2018) - Bachelor in Arts (2014-2018)
+Fundacion Universitaria Jorge Tadeo Lozano, Bogotá, Colombia - Graduate Diploma in Project Management (2017)
+Selected Projects
+Thorcast AI                                                                                             2025 - Present
+    Generating $5k+ monthly revenue by building an on-premise Electron desktop application for banks that creates
+     risk ML/DL models in minutes instead of months, automating the full pipeline (data ingestion, feature engineering,
+     model training, evaluation) with an AI agent powered by Python, FastAPI, LangGraph, PyTorch, and Ollama for
+     on-premise LLM inference.
+Alzheimer’s Detection — UBC Master’s Thesis                                                 March 2024 - August 2024
+    Achieved 90% recall in Alzheimer’s detection model by developing and optimizing deep learning algorithms
+     using PyTorch and TensorFlow, implementing transformer-based models and CNNs for multi-modal analysis (speech
+     + imaging), with hyperparameter tuning and rigorous model evaluation using transfer learning techniques.
 
-### UNIVERSIDAD DEL BOSQUE, Bogotá, Colombia
-**Profesor, Departamento de Humanidades** | *Agosto 2022 - Junio 2023*
-* Introducir a los estudiantes de arte a los conceptos de **IA y Deep learning**, aplicando recursos de bajo código para crear proyectos artísticos, lo que fomentó una comprensión de cómo las técnicas modernas de IA pueden innovar la expresión artística.
-* Instruir a 35 estudiantes por término en lenguajes de programación y frameworks enfocados en la codificación creativa, tales como **ThreeJS, Arduino, C++ y D3js**.
-* Orientar a los estudiantes en el aprendizaje basado en proyectos, ofreciendo orientación personalizada y retroalimentación para ayudarles a desarrollar obras de arte digitales innovadoras y proyectos interactivos.
 
-### UNIVERSIDAD DE LOS ANDES, Bogotá, Colombia
-**Profesor asistente, Análisis de Decisión de Inversión** | *Agosto 2012 - Diciembre 2012*
-* Brindar apoyo al curso en cuanto a calificación de parciales, dictar clases complementarias, desarrollo de tareas, proyectos y demás actividades del curso.
+Awards & Achievements
+     COLFUTURO Scholarship                                                                                       2023
+     Data Science for All (DS4A)                                                                                 2018
 
-**Profesor asistente, Algoritmos de Programación** | *Agosto 2012 - Diciembre 2012*
-* Brindar apoyo al curso en cuanto a calificación de parciales, dictar clases complementarias, desarrollo de tareas, proyectos y demás actividades del curso.
 
-**Profesor asistente, Programa de Acompañamiento** | *Agosto 2011 - Mayo 2012*
-* Facilitar la adaptación de estudiantes de Ingeniería Industrial de primer semestre a la vida universitaria apoyándolos en los diferentes cursos de primer semestre y promoviendo el desarrollo de habilidades como el trabajo en grupo, hábitos de estudio, entre otros.
-
-## Educación
-
-**University of British Columbia**, Vancouver, Canada - Master of Data Science in Computational Linguistics - *Presente*
-
-**Universidad de los Andes**, Bogotá, Colombia - Maestria en Información e Inteligencia Artificial - Pregrado Ingenieria Industrial - Pregrado Artes
-
-**Fundacion Universitaria Jorge Tadeo Lozano**, Bogotá, Colombia - Especializacion en Gestión de Proyectos Culturales
-
-## Premios & Becas
-* Beca COLFUTURO | *2023*
-* Beca Data Science for All (DS4A) | *2018*
-* Ganador Premio Arte Joven Embajada de España y Colsanitas | *2021*
-* Reconocimiento beca Ministerio de Cultura | *2019*
-* Mención de honor beca Ministerio de Cultura | *2018*
-* Ganador Premio IX PUA a las Artes | *2018*
-* Proyecto de Grado Excelencia Meritoria, dirigido por el docente Juan Fernando Mejía. Universidad de los Andes | *2017*
-
-## Exposiciones Individuales
-* Abril 2023. **Peak Depression**. Espacio OTRO, Bogotá (COL).
-* Agosto 2022. **PRIME**, Galería 12:00, Bogotá (COL).
-* Septiembre 2019. **C.E.A.B**, Espacio cultural KB, Bogotá (COL).
-* Julio 2019. **¿Are you human?**, Espacio NADA, Bogotá (COL).
-* Junio 2017. **I know what I meant to mean**, Espacio independiente MIAMI prácticas contemporáneas, Bogotá (COL).
-
-## Exposiciones Colectivas
-* Abril 2025, **Dueños del 1920x1080**, Sala de Exposiciones Cámara de Comercio, Bogotá (COL).
-* Noviembre 2024, **Socialización Beca Circulación**, Museo del Juguete, Trujillo (PER).
-* Octubre 2024, **Ofrenda y Demanda**, Museo Mapuka, Barranquilla (COL).
-* Mayo 2024, **Habitar la Crisis**, Espacio Odeon, Bogotá (COL).
-* Noviembre 2023, **ddmmaaaa**, Espacio Odeon, Bogotá (COL).
-* Junio 2023, **Próximamente**, Colectivo Próximamente, Barranquilla (COL).
-* Septiembre 2022, **Nosotros**, Espacio OTRO, Bogotá (COL).
-* Mayo 2021, **Tercer espacio**, Plural Nodo Cultural, Bogotá (COL).
-* Noviembre 2021, **Departamento temporal de los Objetos**, Galería Santa Fe, Bogotá (COL).
-* Febrero 2020, **Sin título**, Local B. Barcelona (ES).
-* Julio 2019, **Galería MALL en México**, Museo Tamayo, Guadalajara (MEX).
-* Marzo 2019, **Muestra centro cultural Brazil-Perú**, Tokio Galería, Lima (PER).
-* Febrero 2019, **Galería MALL en México**, Espacio Lagos, Ciudad de México (MEX).
-* Febrero 2019, **Museo Tamayo**, Galería MALL, Ciudad de México (MEX).
-* Noviembre 2018, **NADA art fair**, Galería Ultravioleta + Galería MALL, MIAMI (USA).
-* Noviembre 2018, **NADA art fair**, Galería CARNE, MIAMI (USA).
-* Octubre 2018, **Sección Artecámara**, ARTBO, Bogotá (COL).
-* Octubre 2018, **Ruberta Primavera / Otoño '19**, Galería CARNE, Bogotá (COL).
-* Febrero 2018, **POPPOSITIONS art fair**, LaAgencia, Bruselas (BE).
-* Enero 2018, **ENTORNOS**, Galería espacio alterno, Bogotá (COL).
-* Octubre 2017, **Ruberta Primavera / Otoño '18**, Galería CARNE, Bogotá (COL).
-* Septiembre 2017, **Calidad de vida**, Espacio KB, Bogotá (COL).
-* Mayo 2017, **FAMA**, Espacio Km 2.0, San Juan (PR).
-* Diciembre 2016, **No todo lo que brilla es Obra**, Exposición conjunta en la Universidad de los Andes, Bogotá (COL).
-* Diciembre 2016, **FADE**, Galería SGR, Bogotá (COL).
-* Agosto 2016, **Espacios de ficción**, Exposición conjunta en la Sala de proyectos Universidad de los Andes, Bogotá (COL).
-* Noviembre 2015, **Producir sin facturar**, Espacio el Faro del tiempo, Bogotá (COL).
-* Octubre 2014, **PING PONG**, Espacio independiente el Mentidero, Bogotá (COL).
-* Abril 2013, **Salón Toyota**, Universidad del Atlántico, Barranquilla (COL).
-
-## Residencias
-* Junio 2020, **residencia espacio cultural KB**, Bogotá (COL).
-* Julio 2019, **residencia Uniandianos y Cooperartes**, Bogotá (COL).
-
-## Curadurías
-* Febrero 2020, **Hoy no tenemos Arte**, Espacio Donde Mary, Bogotá (COL).
-* Enero 2020, **Mercado Libre**, Espacio Odeón, Bogotá (COL).
-* Noviembre 2019, **Artesanía Neoliberal**, Espacio Donde Mary, Bogotá (COL).
-* Septiembre 2019, **Bombonera**, Salida de Emergencia, Bogotá (COL).
-* Junio 2019, **Miscelánea**, Salida de Emergencia en NUEVO MIAMI, Bogotá (COL).
-
-## Tecnologías
-**Data science**: Python, R, SQL, Pandas, Numpy, Matplotlib, Seaborn, Altair, Scikit-learn (Sklearn), Pytorch, Neural Networks, Machine Learning, Deep Learning, Artificial Intelligence, Natural Language Processing(NLP)
-| **Software Development**: Flask, NodeJS, D3js, ReactJS, HTML, CSS, Redux, front-end, back-end, fullstack, Typescript, Javascript, Java, MongoDB, GitHub, Git, Algorithms, Data structures, Figma, Adobe XD, UI/UX
-| **Other**: AWS (EC2, S3, Lambda, API Gateway), CDK, CloudFormation, DynamoDb, SageMaker, C++, D3js, ThreeJS 
+Skills
+Machine Learning & AI: Python, PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers, ML/DL, GenAI,
+RAG, LangGraph, LangChain, NLP, Computer Vision (OpenCV), Model Evaluation | ML Engineering & Cloud: AWS
+(SageMaker, Lambda, Fargate, S3, Bedrock, CloudWatch, OpenSearch), Azure, Docker, Kubernetes, MLflow, Weights &
+Biases, CI/CD, Model Deployment and Monitoring | Software & Data Engineering: SQL, TypeScript, JavaScript, C++,
+Java, C#, .NET, FastAPI, ReactJS, NodeJS, RESTful APIs, Microservices, Big Data Analytics, Data Pipelines, Software
+Product Design | Leadership & Delivery: End-to-End Project Leadership, Critical Thinking, Decision Making, Results-
+Oriented Delivery, Business Problem Translation, Cross-Functional Collaboration, Stakeholder Communication
+

@@ -1,6 +1,6 @@
-PWD d:\dev\cv
+PWD D:\dev\cv
 INPUT C:\Users\dajim\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\dev\cv\cv.tex
+INPUT cv.tex
 OUTPUT cv.log
 INPUT C:\Users\dajim\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\dajim\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
