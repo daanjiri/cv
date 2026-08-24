@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.19)  10 AUG 2026 09:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.19)  24 AUG 2026 13:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,10 +6,20 @@ entering extended mode
 (cv.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
-(C:\Users\dajim\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
-(C:\Users\dajim\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+
+(C:\Users\dajim\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\extarticle.cls
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
+(C:\Users\dajim\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\size9.clo
+File: size9.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(C:\Users\dajim\AppData\Local\Programs\MiKTeX\tex/latex/base\exscale.sty
+Package: exscale 2025/06/05 v2.1i Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen148
 )
 \c@part=\count275
 \c@section=\count276
@@ -21,7 +31,7 @@ File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \c@table=\count282
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
-\bibindent=\dimen148
+\bibindent=\dimen149
 )
 (C:\Users\dajim\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2026/03/07 v6.0 Page Geometry
@@ -39,14 +49,14 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@cnth=\count283
 \Gm@cntv=\count284
 \c@Gm@tempcnt=\count285
-\Gm@bindingoffset=\dimen149
-\Gm@wd@mp=\dimen150
-\Gm@odd@mp=\dimen151
-\Gm@even@mp=\dimen152
-\Gm@layoutwidth=\dimen153
-\Gm@layoutheight=\dimen154
-\Gm@layouthoffset=\dimen155
-\Gm@layoutvoffset=\dimen156
+\Gm@bindingoffset=\dimen150
+\Gm@wd@mp=\dimen151
+\Gm@odd@mp=\dimen152
+\Gm@even@mp=\dimen153
+\Gm@layoutwidth=\dimen154
+\Gm@layoutheight=\dimen155
+\Gm@layouthoffset=\dimen156
+\Gm@layoutvoffset=\dimen157
 \Gm@dimlist=\toks18
 
 (C:\Users\dajim\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
@@ -153,7 +163,7 @@ ty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen157
+\@linkdim=\dimen158
 \Hy@linkcounter=\count288
 \Hy@pagecounter=\count289
  (C:\Users\dajim\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
@@ -183,7 +193,7 @@ Package hyperref Info: Bookmarks ON on input line 4462.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4801.
-\XeTeXLinkMargin=\dimen158
+\XeTeXLinkMargin=\dimen159
 
 (C:\Users\dajim\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -194,8 +204,8 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
 \Fld@menulength=\count292
-\Field@Width=\dimen159
-\Fld@charsize=\dimen160
+\Field@Width=\dimen160
+\Fld@charsize=\dimen161
 Package hyperref Info: Hyper figures OFF on input line 6078.
 Package hyperref Info: Link nesting OFF on input line 6083.
 Package hyperref Info: Hyper index ON on input line 6086.
@@ -230,7 +240,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 (C:\Users\dajim\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2025/02/06 v3.11 Customized lists
 \labelindent=\skip52
-\enit@outerparindent=\dimen161
+\enit@outerparindent=\dimen162
 \enit@toks=\toks21
 \enit@inbox=\box53
 \enit@count@id=\count298
@@ -241,12 +251,12 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box54
 \beforetitleunit=\skip53
 \aftertitleunit=\skip54
-\ttl@plus=\dimen162
-\ttl@minus=\dimen163
+\ttl@plus=\dimen163
+\ttl@minus=\dimen164
 \ttl@toksa=\toks22
-\titlewidth=\dimen164
-\titlewidthlast=\dimen165
-\titlewidthfirst=\dimen166
+\titlewidth=\dimen165
+\titlewidthlast=\dimen166
+\titlewidthfirst=\dimen167
 )
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 27
 .
@@ -289,22 +299,22 @@ LaTeX Font Info:    ... okay on input line 27.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
-* v-part:(T,H,B)=(28.45274pt, 788.14136pt, 28.45274pt)
+* v-part:(T,H,B)=(25.6073pt, 793.83224pt, 25.6073pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=540.60239pt
-* \textheight=788.14136pt
+* \textheight=793.83224pt
 * \oddsidemargin=-43.81725pt
 * \evensidemargin=-43.81725pt
-* \topmargin=-80.81725pt
+* \topmargin=-83.66269pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=10.0pt
+* \topskip=9.0pt
 * \footskip=30.0pt
-* \marginparwidth=57.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=8.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -320,7 +330,7 @@ Package hyperref Info: Link coloring OFF on input line 27.
 \openout3 = `cv.out'.
 
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 5
-7.
+5.
 
 (C:\Users\dajim\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -328,7 +338,7 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 
 {C:/Users/dajim/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/daji
 m/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/dajim/Ap
-pData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}] [2] (cv.aux)
+pData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}] (cv.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -337,22 +347,22 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9026 strings out of 467871
- 140949 string characters out of 5418376
- 573925 words of memory out of 5000000
- 37835 multiletter control sequences out of 15000+600000
- 664373 words of font info for 53 fonts, out of 8000000 for 9000
+ 9061 strings out of 467871
+ 143454 string characters out of 5418376
+ 579205 words of memory out of 5000000
+ 37865 multiletter control sequences out of 15000+600000
+ 661649 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,572b,544s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,513b,438s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/dajim/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pf
 b><C:/Users/dajim/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
-b><C:/Users/dajim/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.p
-fb><C:/Users/dajim/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pf
-b><C:/Users/dajim/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pf
-b>
-Output written on cv.pdf (2 pages, 146447 bytes).
+b><C:/Users/dajim/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx9.pfb
+><C:/Users/dajim/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pf
+b><C:/Users/dajim/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb>
+<C:/Users/dajim/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri9.pfb>
+Output written on cv.pdf (1 page, 168334 bytes).
 PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
- 3 named destinations out of 1000 (max. 500000)
+ 49 PDF objects out of 1000 (max. 8388607)
+ 2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
