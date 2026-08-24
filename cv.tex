@@ -1,5 +1,5 @@
-\documentclass[10pt,a4paper]{article}
-\usepackage[margin=1cm]{geometry}
+\documentclass[9pt,a4paper]{extarticle}
+\usepackage[top=0.9cm,bottom=0.9cm,left=1cm,right=1cm]{geometry}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage{lmodern}
@@ -13,7 +13,7 @@
 \setlength{\parskip}{0pt plus 1pt minus 1pt}
 \renewcommand{\baselinestretch}{1}
 
-\setlist[itemize]{label=\textbullet, topsep=0pt, partopsep=0pt, parsep=0pt, itemsep=0pt, leftmargin=1cm}
+\setlist[itemize]{label=\textbullet, topsep=0pt, partopsep=0pt, parsep=0pt, itemsep=0pt, leftmargin=0.8cm}
 
 % ATS parsing safeguards: never break a word across lines with a hyphen,
 % otherwise keyword matching sees "quantiza-" + "tion" instead of the term.
@@ -26,18 +26,16 @@
 
 \begin{document}
 
-\titlespacing*{\subsection}{0pt}{6pt}{2pt}
-\titlespacing*{\section}{0pt}{0pt}{3pt}
+\titlespacing*{\subsection}{0pt}{3pt}{0pt}
+\titlespacing*{\section}{0pt}{0pt}{2pt}
 
 
 \pagestyle{empty}
 
 {
 \centering
-{\Huge\textbf{Daniel Andres Jimenez Riveros}}\\
-\medskip
+{\LARGE\textbf{Daniel Andres Jimenez Riveros}}\\
 Cloud AI Engineer \textbar\ AWS, Large Language Models \& Inference Optimization\\
-\smallskip
 Vancouver, BC, Canada \textbar\ \href{mailto:da.jimenez166@gmail.com}{da.jimenez166@gmail.com} \textbar\ \href{https://www.linkedin.com/in/daniel-jimenez-78500117a/}{linkedin.com/in/daniel-jimenez-78500117a} \textbar\ \href{https://github.com/daanjiri}{github.com/daanjiri}\\
 }
 
@@ -45,54 +43,35 @@ Vancouver, BC, Canada \textbar\ \href{mailto:da.jimenez166@gmail.com}{da.jimenez
 
 \section*{Professional Summary}
 
-\textbf{Cloud AI / ML Engineer with 5+ years of experience deploying, adapting, and optimizing Large Language Models (LLMs) on AWS} using SageMaker, Bedrock, EC2, Fargate, and Lambda. Hands-on with domain-specific fine-tuning (LoRA, PEFT, SFT, RLHF/DPO), prompt engineering, quantization, and inference acceleration for latency and cost tuning. Builds production RAG and multi-modal systems in PyTorch and Hugging Face, backed by MLOps practices for model versioning, monitoring, and ML CI/CD.
+\textbf{Cloud AI / ML Engineer with 5+ years of experience deploying, adapting, and optimizing Large Language Models (LLMs) on AWS} (SageMaker, Bedrock, EC2, Fargate, Lambda). Hands-on with domain-specific fine-tuning (LoRA, PEFT, SFT, RLHF/DPO), prompt engineering, quantization, and inference acceleration for latency and cost tuning. Ships production RAG and multi-modal systems in PyTorch and Hugging Face, backed by MLOps for model versioning, monitoring, and ML CI/CD.
 
 \rule{\textwidth}{0.4pt}
 
 \section*{Work Experience}
 
 \subsection*{Apexon, Vancouver, BC, Canada}
-{\fontsize{11}{12} \textbf{\textit{Senior GenAI Engineer (Cloud AI, LLM Deployment on AWS)}}} \hfill \textit{June 2025 - Present}
+{\fontsize{10}{11} \textbf{\textit{Senior GenAI Engineer (Cloud AI, LLM Deployment on AWS)}}} \hfill \textit{June 2025 - Present}
 \begin{itemize}[noitemsep]
-    \item \textbf{Projected +\$0.8B net new revenue from prioritized ISV verticals within the first launch year} by designing, deploying, and serving an agentic LLM application for a payment platform (McKinsey client) on AWS with Python and LangGraph, applying tool and function calling, multi-agent orchestration, and guardrails behind containerized FastAPI inference services.
-    \item \textbf{Achieved 96\% accuracy in a production RAG system} by architecting retrieval pipelines on AWS (Bedrock, OpenSearch, S3, Lambda) with Anthropic Claude and OpenAI models and advanced prompt and context engineering, validated with DeepEval and Ragas and monitored in Langfuse for answer quality, latency, and token cost.
-    \item \textbf{Cut inference latency and cost per request} by right-sizing and routing models across Bedrock and third-party LLM APIs, compressing prompts and retrieved context, caching frequent responses, and streaming outputs under production traffic.
-    \item \textbf{Serve as technical lead for the AI engineering team}, establishing MLOps practices for prompt and model versioning, automated evaluation gates, ML CI/CD pipelines, and infrastructure as code, while mentoring engineers and translating business needs into scalable cloud AI architectures.
+    \item \textbf{Projected +\$0.8B net new revenue from prioritized ISV verticals in the first launch year} by designing, deploying, and serving an agentic LLM application for a payment platform (McKinsey client) on AWS with Python and LangGraph, using tool and function calling, multi-agent orchestration, and guardrails behind containerized FastAPI services.
+    \item \textbf{Achieved 96\% accuracy in a production RAG system} by architecting retrieval pipelines on AWS (Bedrock, OpenSearch, S3, Lambda) with Anthropic Claude and OpenAI models and advanced prompt and context engineering, evaluated with DeepEval and Ragas and monitored in Langfuse for quality, latency, and token cost.
+    \item \textbf{Cut inference latency and cost per request} by right-sizing and routing models across Bedrock and third-party LLM APIs, compressing prompts and context, caching, and streaming; as \textbf{technical lead}, established model and prompt versioning, automated evaluation gates, ML CI/CD, and infrastructure as code.
 \end{itemize}
 
 \subsection*{Arkangel AI, Remote}
-{\fontsize{11}{12} \textbf{\textit{Senior Machine Learning Engineer (LLM Fine-Tuning \& Model Serving)}}} \hfill \textit{June 2024 - June 2025}
+{\fontsize{10}{11} \textbf{\textit{Senior Machine Learning Engineer (LLM Fine-Tuning \& Model Serving)}}} \hfill \textit{June 2024 - June 2025}
 \begin{itemize}[noitemsep]
-    \item \textbf{45,000+ users served by an LLM agent for clinical text extraction} from electronic health records, built with Hugging Face Transformers, RAG, and LangGraph, containerized with Docker and FastAPI, and deployed on AWS Fargate, ECR, and S3 with autoscaling for high-availability inference.
-    \item \textbf{Raised task accuracy through domain-specific model adaptation} using supervised fine-tuning (SFT), LoRA/PEFT adapters, and RLHF/DPO alignment on medical corpora in PyTorch and Hugging Face, benchmarked against held-out evaluation sets before promoting each model version to production.
-    \item \textbf{Generated up to \$50k monthly recurring revenue} by building an AutoML and deep learning platform on AWS SageMaker with PyTorch, Lambda, S3, and CloudWatch, covering training jobs, managed endpoints, model registry and versioning, automated retraining, and drift monitoring.
-    \item \textbf{Reduced processing time and cost by 70\%} by delivering multi-modal document AI with vision-language models (VLMs), OCR, and computer vision (OpenCV, PyTorch) for automated invoice processing and provider verification.
-\end{itemize}
-
-\subsection*{Insighty, San Francisco, CA \& Colombia}
-{\fontsize{11}{12} \textbf{\textit{AI Project Consultant}}} \hfill \textit{March 2024 - September 2024}
-\begin{itemize}[noitemsep]
-    \item \textbf{Impacted 1,000+ legal cases} by architecting a RAG chatbot and AI agent for enterprise case management on Amazon Bedrock with LangChain, FAISS vector search, knowledge graphs, and FastAPI.
+    \item \textbf{45,000+ users served by an LLM agent for clinical text extraction} from electronic health records, built with Hugging Face Transformers, RAG, and LangGraph and deployed on AWS Fargate, ECR, and S3 with Docker, FastAPI, and autoscaling for high-availability inference.
+    \item \textbf{Raised task accuracy through domain-specific model adaptation} using supervised fine-tuning (SFT), LoRA/PEFT adapters, and RLHF/DPO alignment on medical corpora in PyTorch and Hugging Face, benchmarked on held-out evaluation sets before promoting each model version.
+    \item \textbf{Generated up to \$50k monthly recurring revenue} with an AutoML and deep learning platform on AWS SageMaker, PyTorch, Lambda, S3, and CloudWatch: training jobs, managed endpoints, model registry and versioning, automated retraining, and drift monitoring.
+    \item \textbf{Reduced processing time and cost by 70\%} with multi-modal document AI using vision-language models (VLMs), OCR, and computer vision (OpenCV, PyTorch).
 \end{itemize}
 
 \subsection*{Amazon, Remote}
-{\fontsize{11}{12} \textbf{\textit{Software Development Engineer}}} \hfill \textit{July 2022 - August 2023}
+{\fontsize{10}{11} \textbf{\textit{Software Development Engineer}}} \hfill \textit{July 2022 - August 2023}
 \begin{itemize}[noitemsep]
-    \item \textbf{Analyzed 500,000+ customer service transactions for 9,000+ Amazon employees} by building text analytics and automated data pipelines in Python (Pandas, NumPy), and \textbf{empowered 300+ e-commerce leaders} with scalable backend services and RESTful APIs in TypeScript and NodeJS, delivered through code review, testing, and CI/CD.
+    \item \textbf{Analyzed 500,000+ customer service transactions for 9,000+ Amazon employees} with Python (Pandas, NumPy) text analytics and automated data pipelines, and \textbf{empowered 300+ e-commerce leaders} with scalable backend services and RESTful APIs in TypeScript and NodeJS, delivered through code review, testing, and CI/CD.
 \end{itemize}
 
-{\fontsize{11}{12} \textbf{\textit{Information Technology Intern}}} \hfill \textit{January 2021 - July 2021}
-\begin{itemize}[noitemsep]
-    \item \textbf{Delivered analytics dashboards and internal tooling for 3 teams} using ReactJS and SAS-based analytics.
-\end{itemize}
-
-\rule{\textwidth}{0.4pt}
-
-\section*{Education}
-
-\textbf{Master of Data Science in Computational Linguistics}, University of British Columbia, Vancouver, BC, Canada (2023-2024)\\
-\textbf{Master of Science in Information Technology}, Universidad de los Andes, Bogota, Colombia (2018-2020)\\
-\textbf{Bachelor of Engineering in Industrial Engineering} and \textbf{Bachelor of Arts}, Universidad de los Andes, Bogota, Colombia (2014-2018)
 
 \rule{\textwidth}{0.4pt}
 
@@ -100,30 +79,29 @@ Vancouver, BC, Canada \textbar\ \href{mailto:da.jimenez166@gmail.com}{da.jimenez
 
 \textbf{Thorcast AI, On-Premise LLM Platform for Financial Services} \hfill \textit{2025 - Present}
 \begin{itemize}[noitemsep]
-    \item \textbf{Generating \$5k+ monthly revenue} from banks with an application that builds credit and operational risk ML/DL models in minutes instead of months, automating data ingestion, feature engineering, training, and evaluation with an AI agent in Python, FastAPI, LangGraph, and PyTorch, and \textbf{serving quantized open-weight LLMs on-premise with Ollama} to meet strict data-privacy constraints on limited hardware.
+    \item \textbf{Generating \$5k+ monthly revenue} from banks with an application that builds credit and operational risk ML/DL models in minutes instead of months, automating ingestion, feature engineering, training, and evaluation with an AI agent in Python, FastAPI, LangGraph, and PyTorch, and \textbf{serving quantized open-weight LLMs on-premise with Ollama} under strict data-privacy constraints.
 \end{itemize}
-
-\smallskip
 
 \textbf{Alzheimer's Detection from Speech, UBC Master's Thesis} \hfill \textit{March 2024 - August 2024}
 \begin{itemize}[noitemsep]
-    \item \textbf{Achieved 90\% recall} by fine-tuning transformer models and CNNs in PyTorch and TensorFlow for multi-modal analysis of speech and imaging, with hyperparameter tuning, transfer learning, and rigorous statistical evaluation.
+    \item \textbf{Achieved 90\% recall} by fine-tuning transformer models and CNNs in PyTorch and TensorFlow for multi-modal analysis of speech and imaging, with hyperparameter tuning and transfer learning.
 \end{itemize}
 
 \rule{\textwidth}{0.4pt}
 
-\section*{Awards \& Achievements}
+\section*{Education}
 
-COLFUTURO Scholarship (2023) \textbar\ Data Science for All, DS4A (2018) \textbar\ Graduate Diploma in Project Management, Fundacion Universitaria Jorge Tadeo Lozano (2017)
+\textbf{Master of Data Science in Computational Linguistics}, University of British Columbia, Vancouver, Canada (2023-2024)\\
+\textbf{Master of Science in Information Technology}, Universidad de los Andes, Bogota, Colombia (2018-2020)\\
+\textbf{Bachelor of Engineering in Industrial Engineering} and \textbf{Bachelor of Arts}, Universidad de los Andes (2014-2018)\\
+\textbf{Awards}: COLFUTURO Scholarship (2023) \textbar\ Data Science for All, DS4A (2018)
 
 \rule{\textwidth}{0.4pt}
 
 \section*{Skills}
-\textbf{AWS \& LLM Deployment}: Amazon SageMaker (Training Jobs, Real-Time \& Asynchronous Endpoints, Model Registry), Amazon Bedrock, EC2, Lambda, Fargate/ECS, ECR, S3, OpenSearch, CloudWatch, IAM, Auto Scaling, Docker, Kubernetes, FastAPI, Ollama, Azure\\
-\textbf{Model Adaptation \& Fine-Tuning}: Domain-Specific Fine-Tuning, LoRA, PEFT, Supervised Fine-Tuning (SFT), RLHF, DPO Alignment, Instruction Tuning, Transfer Learning, Prompt Engineering, Context Engineering, Embeddings, LLM Evaluation (DeepEval, Ragas)\\
-\textbf{Model \& Inference Optimization}: Quantization, Inference Acceleration, Latency Tuning, Cost Optimization (cost per token and per request), Model Routing \& Right-Sizing, Batching, Caching, Response Streaming, GPU/CPU Resource Tuning, Model Serving\\
-\textbf{MLOps}: Model Versioning \& Model Registry, Model Monitoring \& Drift Detection, ML CI/CD Pipelines (GitHub Actions), Automated Retraining, MLflow, Weights \& Biases, Langfuse Observability, Terraform/IaC, A/B Testing \& Experimentation, Reproducibility\\
-\textbf{Frameworks \& ML}: PyTorch, Hugging Face Transformers, PEFT/TRL, TensorFlow, Scikit-learn, LangChain, LangGraph, Pandas, NumPy, OpenCV, Deep Learning, NLP, Statistical Modelling\\
-\textbf{RAG \& Multi-Modal}: RAG Architectures, Vector Databases (OpenSearch, FAISS, Pinecone, ChromaDB), Hybrid Search, Reranking, Chunking Strategies, Knowledge Graphs, Vision-Language Models (VLMs), OCR, Speech \& Text Modelling, Guardrails\\
-\textbf{Programming \& Engineering}: Python (Expert), SQL, TypeScript, JavaScript, C++, Java, C\#/.NET, Git \& GitHub, RESTful APIs, Microservices, Unit \& Integration Testing, Code Review
+\textbf{AWS \& LLM Deployment}: Amazon SageMaker (Training Jobs, Real-Time \& Asynchronous Endpoints, Model Registry), Amazon Bedrock, EC2, Lambda, Fargate/ECS, ECR, S3, OpenSearch, CloudWatch, Auto Scaling, Docker, Kubernetes, FastAPI, Ollama, Azure\\
+\textbf{Fine-Tuning \& Inference Optimization}: Domain-Specific Fine-Tuning, LoRA, PEFT, Supervised Fine-Tuning (SFT), RLHF, DPO Alignment, Prompt \& Context Engineering, Quantization, Inference Acceleration, Latency Tuning, Cost Optimization, Model Routing \& Right-Sizing, Batching, Caching, Model Serving\\
+\textbf{MLOps}: Model Versioning \& Model Registry, Model Monitoring \& Drift Detection, ML CI/CD Pipelines (GitHub Actions), Automated Retraining, MLflow, Weights \& Biases, Langfuse Observability, Terraform/IaC, A/B Testing\\
+\textbf{ML \& GenAI}: PyTorch, Hugging Face Transformers, PEFT/TRL, TensorFlow, Scikit-learn, LangChain, LangGraph, RAG Architectures, Vector Databases (OpenSearch, FAISS, Pinecone, ChromaDB), Multi-Modal Models (VLMs, OCR), NLP, LLM Evaluation (DeepEval, Ragas), Guardrails\\
+\textbf{Programming \& Engineering}: Python (Expert), SQL, TypeScript, JavaScript, C++, Java, C\#/.NET, Git \& GitHub, RESTful APIs, Microservices, Testing, Code Review
 \end{document}
